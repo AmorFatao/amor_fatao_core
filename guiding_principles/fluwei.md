@@ -37,4 +37,4 @@ Embracing Fluwei is a journey of self-discovery and alignment. As we incorporate
 
 ---
 
-[Back to Amor Fatao Main Page](~/README.md)
+[Back to Amor Fatao Main Page](../README.md)
