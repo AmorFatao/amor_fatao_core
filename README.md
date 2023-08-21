@@ -15,13 +15,13 @@ Amor Fatao is not intended to replace any existing beliefs but serves as a compl
 ## Guiding Principles
 
 ### **1. Fluwei (Embracing the Flow of Fate)**
-Fluwei encapsulates the idea of surrendering to the external forces and circumstances that we cannot control, much like a river being shaped by the landscape. It encourages Navigators to understand the larger patterns at play and find harmony within them.
+Fluwei encapsulates the idea of surrendering to the external forces and circumstances that we cannot control, much like a river being shaped by the landscape. It encourages Navigators to understand the larger patterns at play and find harmony within them. [view Fluwei page](guiding_principles/fluwei.md)
 
 ### **2. Momsara (Movement Through Life's Cycles)**
-Life is cyclic. By understanding and respecting these cycles, Momsara encourages Navigators to take mindful actions that are in tune with the rhythms of life. This principle speaks to our ability to act in the world, acknowledging the cyclical nature of experiences and situations.
+Life is cyclic. By understanding and respecting these cycles, Momsara encourages Navigators to take mindful actions that are in tune with the rhythms of life. This principle speaks to our ability to act in the world, acknowledging the cyclical nature of experiences and situations. [view Momsara page](guiding_principles/momsara.md)
 
 ### **3. Lumetta (Illuminated Compassion)**
-The act of shedding light on our interactions with others, Lumetta encourages us to act with empathy and understanding. This principle teaches Navigators the value of interconnectedness, mutual respect, and the strength that comes from collective collaboration.
+The act of shedding light on our interactions with others, Lumetta encourages us to act with empathy and understanding. This principle teaches Navigators the value of interconnectedness, mutual respect, and the strength that comes from collective collaboration. [view Lumetta page](guiding_principles/lumetta.md)
 
 ---
 
